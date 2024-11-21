@@ -1,0 +1,50 @@
+#heading {
+    color: #57291f;
+    font-size: 57px;
+    background-color: #f7e5bf;
+    text-align: center;
+}
+
+
+.recipe-link {
+color:#f7e5bf;
+background-color:#c87505;
+font-weight: 700;
+width: 200px;
+height: 27px;
+text-align: left;
+}
+
+#recipe-list {
+    text-align: left;
+}
+
+#recipe-header {
+    text-align: center;
+    font-size: 56px;
+    background-color: #f7e5bf;
+    color:#57291f;
+}
+
+.food-pic {
+    height: auto;
+    width: 300px;
+}
+
+.section-header {
+    height:30px;
+    width: 600px;
+    background-color: #c87505;
+    color: #f7e5bf;
+}
+.box {
+    background-color: #f7e5bf;
+    width: 300px;
+    height: auto;
+}
+
+.direc{
+    background-color: #f7e5bf;
+    width: 750px;
+}
+
