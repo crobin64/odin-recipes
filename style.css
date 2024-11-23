@@ -1,23 +1,36 @@
 #heading {
+    display: block;
     color: #57291f;
     font-size: 57px;
     background-color: #f7e5bf;
     text-align: center;
+    border: 8px dotted #57291f;
+    padding: 8px;
+    margin: 8px;
 }
 
+
+.link {
+    display: inline;
+    border: 1px solid #57291f;
+    margin-top: 8px;
+    margin-left: 100px;
+    padding: 4px;
+    background-color:#c87505;
+    
+}
 
 .recipe-link {
-color:#f7e5bf;
-background-color:#c87505;
-font-weight: 700;
-width: 200px;
-height: 27px;
-text-align: left;
+    display: inline;
+    color:#f7e5bf;
+    font-weight: 700px;
+
 }
 
-#recipe-list {
-    text-align: left;
-}
+
+
+
+
 
 #recipe-header {
     text-align: center;
